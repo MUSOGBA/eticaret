@@ -1,0 +1,2 @@
+# eticaret
+eticaret_1
